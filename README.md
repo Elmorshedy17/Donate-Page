@@ -19,3 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 ------------
 
 just single page for donation using scoped model ,link App => http://www.mediafire.com/file/k9op1wcu8p9760v/donation_screen.apk/file
+
+some screenshoots :
+
+![donate1](https://github.com/Elmorshedy17/Donate-Page/blob/master/donate/donate1.png)
+![donate2](https://github.com/Elmorshedy17/Donate-Page/blob/master/donate/donate2.png)
